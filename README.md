@@ -1,5 +1,7 @@
 # `manifoldX`
 
+![nodejs](https://github.com/manifoldfinance/manifoldx/workflows/nodejs/badge.svg)
+
 ```
 npm i manifoldx
 ```
