@@ -1,0 +1,5 @@
+package-lock.json merge=npm-merge-driver
+test/ export-ignore
+git_ssh text eol=lf
+repo text eol=lf
+hooks/* text eol=lf

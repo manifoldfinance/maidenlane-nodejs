@@ -1,6 +1,15 @@
 .DS_Store
 .yarn-cache
 node_modules/
-package-lock.json
 *.iml
 .idea/
+.vscode/
+*.log
+*-error.json
+yarn-error.log
+*.log
+*.tsbuildinfo
+.*cache
+.changelog
+.type-coverage
+coverage

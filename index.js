@@ -1,1 +1,1 @@
-module.exports = require('./lib/manifoldx');
+module.exports = require("./lib/manifoldx");
