@@ -1,6 +1,6 @@
 {
   "name": "@maidenlane/nodejs",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "maidenlane nodejs client",
   "main": "index.js",
   "scripts": {
