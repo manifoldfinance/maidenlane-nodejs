@@ -1,9 +1,9 @@
 # `manifoldX`
 
-![nodejs](https://github.com/manifoldfinance/manifoldx/workflows/nodejs/badge.svg)
+![nodejs](https://github.com/manifoldfinance/maidenlane/workflows/nodejs/badge.svg)
 
 ```
-npm i manifoldx
+npm i maidenlane
 ```
 
 # Messages Reference

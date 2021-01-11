@@ -1,19 +1,19 @@
-const ManifoldX = require("../lib/manifoldx");
+const ManifoldX = require("../lib/maidenlane");
 const keys = require("./keys");
 
-const manifoldx = new ManifoldX(keys);
+const maidenlane = new ManifoldX(keys);
 
-// manifoldx.on('report', report => {
+// maidenlane.on('report', report => {
 //   if (report.header.type_id === 4) {
 //     return;
 //   }
 //   console.log(JSON.stringify(report, null, 2));
 // });
 
-manifoldx
+maidenlane
   .connect()
   .then(() => {
-    return manifoldx.newOrder({
+    return maidenlane.newOrder({
       market: "ETH-DAI",
       is_buy: false,
       price: "300",
@@ -24,5 +24,5 @@ manifoldx
     return order.cancel();
   })
   .then(() => {
-    console.log("balances", manifoldx.getBalances());
+    console.log("balances", maidenlane.getBalances());
   });
