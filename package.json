@@ -1,7 +1,7 @@
 {
-  "name": "maidenlane",
+  "name": "@maidenlane/nodejs",
   "version": "0.2.2",
-  "description": "Official NodeJs client for merkleX",
+  "description": "maidenlane nodejs client",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
