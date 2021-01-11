@@ -1,4 +1,4 @@
-# `manifoldX`
+# `@maidenlane/nodejs`
 
 ![nodejs](https://github.com/manifoldfinance/maidenlane/workflows/nodejs/badge.svg)
 
@@ -6,7 +6,7 @@
 npm i maidenlane
 ```
 
-# Messages Reference
+## Messages Reference
 
 ## Requests
 
