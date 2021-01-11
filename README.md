@@ -3,7 +3,7 @@
 ![nodejs](https://github.com/manifoldfinance/maidenlane/workflows/nodejs/badge.svg)
 
 ```
-npm i maidenlane
+npm i @maidenlane/nodejs
 ```
 
 ## Messages Reference
